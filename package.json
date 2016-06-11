@@ -1,0 +1,25 @@
+{
+  "name": "nickname",
+  "version": "1.0.0",
+  "description": "Small module that takes 1 or more word lists to generate a random name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarcastech/nickname.git"
+  },
+  "keywords": [
+    "sarcastech",
+    "random",
+    "string",
+    "name"
+  ],
+  "author": "sarcastech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarcastech/nickname/issues"
+  },
+  "homepage": "https://github.com/sarcastech/nickname#readme"
+}
