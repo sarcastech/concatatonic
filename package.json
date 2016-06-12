@@ -22,6 +22,9 @@
     "url": "https://github.com/sarcastech/nickname/issues"
   },
   "homepage": "https://github.com/sarcastech/nickname#readme",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
