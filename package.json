@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/sarcastech/nickname/issues"
   },
-  "homepage": "https://github.com/sarcastech/nickname#readme"
+  "homepage": "https://github.com/sarcastech/nickname#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "sinon": "^1.17.2",
+    "sinon-chai": "^2.8.0"
+  }
 }
