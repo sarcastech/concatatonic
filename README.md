@@ -17,3 +17,9 @@ nickname.generate(array1, array2); // return is reddog345
 nickname.generate(array1, array2); // return is greenfish763
 nickname.generate(array1, array2); // return is bluecat345
 ```
+
+## Running the Tests
+```javascript
+npm install
+npm test
+```
