@@ -5,8 +5,5 @@ const GET_RANDOM = function (arr) {
 };
 
 exports.generate = function () {
-  let listArray = Array.from(arguments);
-  let d = new Date();
-  let handle = listArray.map(GET_RANDOM).join('');
-  return handle += d.toISOString().substr(20, 3);
+  return Array.from(arguments).map(GET_RANDOM).join('') + new Date().toISOString().substr(20, 3);
 }
