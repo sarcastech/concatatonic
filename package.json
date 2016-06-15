@@ -4,7 +4,7 @@
   "description": "Small module that takes 1 or more word lists to generate a random name.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -22,9 +22,6 @@
     "url": "https://github.com/sarcastech/nickname/issues"
   },
   "homepage": "https://github.com/sarcastech/nickname#readme",
-  "scripts": {
-    "test": "./node_modules/.bin/mocha"
-  },
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",
