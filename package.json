@@ -1,5 +1,5 @@
 {
-  "name": "nickname",
+  "name": "concatatonic",
   "version": "1.0.0",
   "description": "Small module that takes 1 or more word lists to generate a random name.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarcastech/nickname.git"
+    "url": "git+https://github.com/sarcastech/concatatonic.git"
   },
   "keywords": [
     "sarcastech",
@@ -19,9 +19,9 @@
   "author": "sarcastech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sarcastech/nickname/issues"
+    "url": "https://github.com/sarcastech/concatatonic/issues"
   },
-  "homepage": "https://github.com/sarcastech/nickname#readme",
+  "homepage": "https://github.com/sarcastech/concatatonic#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4",

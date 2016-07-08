@@ -1,5 +1,5 @@
 'use strict';
 let words = require('./wordLists');
-let nickname = require('../index');
+let concatatonic = require('../index');
 
-console.log(nickname.generate(words.firstNames, words.middleNames, words.lastNames));
+console.log(concatatonic.generate(words.firstNames, words.middleNames, words.lastNames));
